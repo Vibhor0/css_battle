@@ -1,0 +1,26 @@
+body {
+    background: rgb(211, 87, 87);
+    font-family: 'Meow Script', cursive;
+}
+
+#a {
+    color: rgb(211, 198, 198);
+    background: rgb(48, 40, 10);
+    margin: -28 8;
+    padding: 0;
+    font-size: 4em
+}
+
+#b {
+    color: rgb(211, 198, 198);
+    background: rgb(48, 40, 10);
+    margin: -28 8;
+    padding: 0;
+    font-size: 2em
+}
+
+span {
+    position: flex;
+    gap: 30%;
+    margin: 10em 10em
+}
