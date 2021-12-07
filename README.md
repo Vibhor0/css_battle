@@ -1,14 +1,14 @@
 # css_battle
 CSS battle solutions
 
-##142nd / 156163
+## 142nd / 156163
 
-##Global Rank
+## Global Rank
 
-##57426.50
+## 57426.50
 
-###Total Score
+### Total Score
 
-##96/96
+## 96/96
 
-###Targets Played
+### Targets Played
